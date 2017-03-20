@@ -1,0 +1,17 @@
+{
+  "name": "@lwd/sample-shopify-webhook-handler",
+  "version": "0.1.2",
+  "private": true,
+  "description": "Sample Shopify Web Hook Handler",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LollyWollyDoodle/sample-shopify-webhook-handler.git"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@lwd/lambda-deployment-package": "^0.1.0",
+    "aws-sdk": "2.22.0",
+    "gulp": "^3.9.1"
+  }
+}
